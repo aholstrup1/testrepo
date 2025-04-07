@@ -12,5 +12,5 @@
   "enableAppSourceCop": false,
   "enablePerTenantExtensionCop": false,
   "enableUICop": false,
-  "enableCodeAnalyzersOnTestApps": false,
+  "enableCodeAnalyzersOnTestApps": false
 }

@@ -7,5 +7,10 @@
   "testFolders": [],
   "bcptTestFolders": [],
   "useCompilerFolder": true,
-  "doNotPublishApps": true
+  "doNotPublishApps": true,
+  "enableCodeCop": false,
+  "enableAppSourceCop": false,
+  "enablePerTenantExtensionCop": false,
+  "enableUICop": false,
+  "enableCodeAnalyzersOnTestApps": false,
 }
